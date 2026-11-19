@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Predictor
+# 🚗 Car Price Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.x-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
